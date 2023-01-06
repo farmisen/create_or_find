@@ -1,0 +1,2 @@
+class SimPick < ApplicationRecord
+end

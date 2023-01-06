@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sim_user_season_id: 1
+  week_id: 1
+
+two:
+  sim_user_season_id: 1
+  week_id: 1
