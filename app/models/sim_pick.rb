@@ -1,2 +1,0 @@
-class SimPick < ApplicationRecord
-end
